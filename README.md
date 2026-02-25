@@ -31,5 +31,5 @@ Transformers • RAG • CNN • Diffusion
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/kevin-lin-a21831250/
+LinkedIn: https://www.linkedin.com/in/kevin-lin-a21831250/   
 Email: kevin1.lin9@gmail.com
